@@ -1,8 +1,15 @@
+
+**Laravel 11: Authentication & CRUD Todo**
+
+
+
 **Login Page**
 
 ![WhatsApp Image 2024-10-31 at 20 57 09_1a3c84dc](https://github.com/user-attachments/assets/a661fd2d-c8b8-490c-8e54-72ba96ed84ed)
 
+
 **Register Page**
+
 ![WhatsApp Image 2024-10-31 at 20 54 50_9f20806a](https://github.com/user-attachments/assets/9a840674-cc05-4d3d-a65c-517d77aba2fa)
 
 **Home Page**
