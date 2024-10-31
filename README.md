@@ -1,3 +1,30 @@
+**Login Page **
+
+![WhatsApp Image 2024-10-31 at 20 57 09_1a3c84dc](https://github.com/user-attachments/assets/a661fd2d-c8b8-490c-8e54-72ba96ed84ed)
+
+**Register Page**
+![WhatsApp Image 2024-10-31 at 20 54 50_9f20806a](https://github.com/user-attachments/assets/9a840674-cc05-4d3d-a65c-517d77aba2fa)
+
+**Home Page**
+
+![WhatsApp Image 2024-10-31 at 20 57 46_98dd0e29](https://github.com/user-attachments/assets/93efe371-9143-4f33-b527-73aa1ae4e2bb)
+
+![WhatsApp Image 2024-10-31 at 21 17 01_31d3074b](https://github.com/user-attachments/assets/ab82aeb4-034b-47bd-8c10-83b576c5c058)
+
+**Condition Add Todo**
+
+![WhatsApp Image 2024-10-31 at 21 17 36_2ec8148a](https://github.com/user-attachments/assets/88ee2f6d-b4c8-492a-b89f-064bb7fdf5da)
+
+**Condition Update Todo**
+
+![WhatsApp Image 2024-10-31 at 21 18 28_b0097e8e](https://github.com/user-attachments/assets/85d6296c-7479-4228-97e7-3e84c5f837f5)
+
+**Condition Delete Todo**
+
+![WhatsApp Image 2024-10-31 at 21 18 53_78780dd3](https://github.com/user-attachments/assets/d0f2bb07-9e2b-4fc8-8510-7432a42da569)
+
+`*****`
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
